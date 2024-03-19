@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="uft-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Egyptian gods - Heliopolis</title>
+    <link rel="stylesheet" href="egyptian_gods.css">
+  </head>
+  <body>
+    <nav id="navbar">
+      <header id="title">Heliopolis' egyptian mythology vulgarisation</header>
+      <section id="link-section">
+        <h1>Table of Contents</h1>
+        <a href="#Rê" class="nav-link">Rê</a>
+        <a href="#Shou" class="nav-link">Shou</a>
+        <a href="#Tefnout" class="nav-link">Tefnout</a>
+        <a href="#Geb" class="nav-link">Geb</a>
+        <a href="#Nout" class="nav-link">Nout</a>
+        <a href="#Osiris" class="nav-link">Osiris</a>
+        <a href="#Isis" class="nav-link">Isis</a>
+        <a href="#Seth" class="nav-link">Seth</a>
+        <a href="#Nephtys" class="nav-link">Nephtys</a>
+        <a href="#Horus_the_elder" class="nav-link">Horus the elder</a>
+        <a href="#Anubis" class="nav-link">Anubis</a>
+        <a href="#Thot" class="nav-link">Thot</a>
+        <a href="#Horus_the_younger" class="nav-link">Horus the younger</a></section>
+    </nav>
+    
+    <main id="main-doc">
+      <section class="main-section" id="Rê">
+        <header>Rê</header>
+        <p>He's literally the sun which appear under different forms. At the beggining of the day he's Khepri, a winged scarab pushing the sun. During the day time he's  which is also often associated with <code><a href="#Horus_the_elder" class="hypertext">Horus the elder</a></code>.In the evening he's Atoum often seen as an old man with a cane. During the night time the sun is recovering energy to appear the next day. He's travelling in a rowboat escorted by diverse divinities.</p>        
+      </section>
+
+      <section class="main-section" id="Shou">
+        <header>Shou</header>
+        <p>Also called Chou, he represent the air, the void separating the earth, <code><a href="#Geb" class="hypertext">Geb</a></code>, and the sky, <code><a href="#Nout" class="hypertext">Nout</a></code>, from procreating. Him and his sister Tefnout are the first hypostasis of the demiurge, the creator. He completes the demiurge with his sister, they're Atoum's twins.</p>
+      </section>
+      
+      <section class="main-section" id="Tefnout">
+        <header>Tefnout</header>
+        <p>She's born from a spit of Atoum. She completes the demiurge with her brother, they're Atoum's twins. They personalized the life and balance necessary to the fullfillment of Atoum.</p>
+      </section>
+      
+      <section class="main-section" id="Geb">
+        <header>Geb</header>
+        <p>He personalises Earth, father of the god since he's the first with <a href="#Nout" class="hypertext">Nout</a> to procreate in a sexual way. His children are : <ul><li>Osiris</li> <li>Horus the elder</li><li> Seth</li><li>Isis</li> <li>Nephtys</li></ul> He's mad at Nout for eatiing his other children, the stars. He also welcomes the dead and will become a successor of Rê. His successor will be Osiris.</p>
+      </section>
+      
+      <section class="main-section" id="Nout">
+        <header>Nout</header>
+        <p>She gave birth to the stars that she ate in the evening. this is why she's often represented as a sow. She asked Rê to give her the shape of a cow. She then had bring him to the celestial space. She gave life to five gods during five days <code> (<a href="#Geb" class="hypertext">ref geb</a>)</code>. She's often linked to the sarcophagus.</p>
+      </section>
+
+      <section class="main-section" id="Osiris">
+        <header>Osiris</header>
+        <p>He's the first born of his sibling. He became the king of Egypt, or Earth and taught agriculture and civilisation to the human kind. he was murdered by his brother <a href="#seth" class="hypertext">Seth</a>. His wife Isis reassembled him and resurrected him just the time to make a child, Horus the younger. Osiris then became god of the underworld. He also sybolized death, resurrection and the cycle of Nile floods.</p>
+      </section>
+
+      <section class="main-section" id="Isis">
+        <header>Isis</header>
+        <p>She's born the fourth day after all her brothers and she's a magic expert. She's mostly represented as the loyal wife of Osiris and as a mother. She will go on a quest to resuscitate her husband by rassembling all his parts with the help of <code><a href="#Nephtys" class=hypertext>Nephtys</a></code>, her sister. At this moment she will bear Osiris's child , Horus the younger.</p>
+      </section>
+      
+      <section class="main-section" id="Seth">
+        <header>Seth</header>
+        <p></p>
+      </section>
+            
+      <section class="main-section" id="Nephtys">
+        <header>Nephtys</header>
+        <p></p>
+      </section>
+           
+      <section class="main-section" id="Horus_the_elder">
+        <header>Horus the elder</header>
+        <p></p>
+      </section>
+      
+      <section class="main-section" id="Anubis">
+        <header>Anubis</header>
+        <p></p>
+      </section>
+
+      <section class="main-section" id="Thot">
+        <header>Thot</header>
+        <p></p>
+      </section>
+      
+      <section class="main-section" id="Horus_the_younger">
+        <header>Horus the younger</header>
+        <p></p>
+      </section>
+
+    </main>
+  </body>
+</html>
